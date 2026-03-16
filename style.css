@@ -1,0 +1,39 @@
+body{
+font-family: Arial;
+max-width: 600px;
+margin: 40px auto;
+}
+
+h1{
+text-align:center;
+}
+
+form{
+margin-bottom:10px;
+}
+
+input{
+padding:6px;
+}
+
+button{
+padding:6px 10px;
+}
+
+.delete{
+margin-left:10px;
+color:red;
+text-decoration:none;
+}
+
+.message{
+background:#e6ffe6;
+padding:10px;
+margin-bottom:20px;
+border:1px solid #9ccc9c;
+}
+
+.edit-form{
+display:flex;
+gap:5px;
+}
